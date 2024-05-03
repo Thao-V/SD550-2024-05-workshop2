@@ -35,7 +35,6 @@ Book {
     "availableCopies": 5
   }
 }
-Catalog 
 ```
 * Enhance json-server to contain the above database
 * Improve the React application by using react-router-dom
